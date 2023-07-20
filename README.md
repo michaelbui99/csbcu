@@ -24,6 +24,12 @@ $ csbcu list -q | csbcu clean
 $ csbcu clean ./project1 ./project2 ./nested/project3
 ```
 
+## List all subdirectories containing a csproj file
+
+```bash
+$ csbcu list
+```
+
 ## Available commands, usage and flags
 
 ```bash
